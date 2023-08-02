@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEditor;
 using System;
 using System.Linq;
-using static UnityEditor.Experimental.AssetDatabaseExperimental.AssetDatabaseCounters;
 
 public class MapGenerator : MonoBehaviour
 {
