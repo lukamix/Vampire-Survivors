@@ -2,7 +2,7 @@ Clone repo này về
 
 Mở bằng Unity Engine
 
-Install các package đính kèm 
+Install các file .unitypackage đính kèm bằng cách kéo thả vào Unity Engine 
 
 Install LeanTween : https://assetstore.unity.com/packages/tools/animation/leantween-3595
 
